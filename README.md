@@ -35,7 +35,7 @@ Abre el archivo de configuración de la conexión a la base de datos y asegúrat
 
 Compila y ejecuta la aplicación desde tu IDE favorito (por ejemplo, NetBeans).
 
-5. **Librerías necesarias**
+# Librerías necesarias
 
 La aplicación utiliza las siguientes librerías:
 
@@ -47,12 +47,12 @@ La aplicación utiliza las siguientes librerías:
 
 Para instalarlas, asegúrate de agregar los JAR necesarios en tu proyecto o gestionarlos a través de un build tool como Maven.
 
-6. **Diagrama Relacional**
+# Diagrama Relacional
 
 ![DRBD](https://github.com/user-attachments/assets/90a0c943-d881-4cfc-8734-95ea99436a75)
 
 
-7. **Tecnologías utilizadas**
+# Tecnologías utilizadas
 
 - Java (Swing para la interfaz de usuario)
 - JDBC para la conexión a la base de datos Oracle
@@ -60,7 +60,7 @@ Para instalarlas, asegúrate de agregar los JAR necesarios en tu proyecto o gest
 - SQL para la gestión de datos
 - MVC (Modelo-Vista-Controlador) y patrones de diseño como Singleton e Inyección de Dependencias
 
-8. **Autor**
+# Autor
 
 Jesús Sebastián Huamanculi
 
