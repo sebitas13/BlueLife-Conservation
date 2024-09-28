@@ -14,6 +14,12 @@ Este proyecto es una aplicación de escritorio en Java diseñada para gestionar 
 
 Aquí se puede ver un video demostrativo de la aplicación en funcionamiento:
 
+
+
+https://github.com/user-attachments/assets/7f81cb15-2f7a-47ed-aa51-cb079d7351ed
+
+
+
 ## Instalación
 
 1. **Clona el repositorio:**
