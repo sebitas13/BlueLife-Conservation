@@ -14,14 +14,13 @@ Este proyecto es una aplicación de escritorio en Java diseñada para gestionar 
 
 Aquí se puede ver un video demostrativo de la aplicación en funcionamiento:
 
-
 ## Instalación
 
 1. **Clona el repositorio:**
 
    ```bash
-   git clone https://github.com/tu_usuario/gestion-captura-especies
-   cd gestion-captura-especies
+   git clone https://github.com/tu_usuario/BlueLife-Conservation.git
+   cd BlueLife-Conservation    
 
 2. **Configura la base de datos:**
 
