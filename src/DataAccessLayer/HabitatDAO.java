@@ -74,13 +74,13 @@ public class HabitatDAO {
         model = new DefaultTableModel(null, columnas);
 
         String sql = "SELECT * FROM HABITAT ORDER BY IDHABITAT";
-
+     
         String[] filas = new String[2];
 
         try (Connection con = Conexion.getConnection();
              PreparedStatement pst = con.prepareStatement(sql);
              ResultSet rs = pst.executeQuery()) {
-
+            
             while (rs.next()) {
                 for (int i = 0; i < 2; i++) {
                     filas[i] = rs.getString(i + 1);

@@ -24,6 +24,7 @@ public class FrmHabitat extends javax.swing.JFrame {
     public FrmHabitat(HabitatController habitatController) {
         initComponents();
         this.habitatController = habitatController;
+        listarHabitat();
     }
     
     public void listarHabitat(){
